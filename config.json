@@ -1,0 +1,118 @@
+{
+  "thailand": [
+    {
+      "height": 3024,
+      "compressed_path": "./photos/thailand/IMG_0080.min.jpeg",
+      "width": 4032,
+      "compressed": true,
+      "placeholder_path": "./photos/thailand/IMG_0080.placeholder.jpeg",
+      "path": "./photos/thailand/IMG_0080.jpeg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/thailand/IMG_0167.min.jpeg",
+      "width": 4032,
+      "compressed": true,
+      "placeholder_path": "./photos/thailand/IMG_0167.placeholder.jpeg",
+      "path": "./photos/thailand/IMG_0167.jpeg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/thailand/APC_0039.min.jpg",
+      "width": 4032,
+      "compressed": true,
+      "placeholder_path": "./photos/thailand/APC_0039.placeholder.jpg",
+      "path": "./photos/thailand/APC_0039.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/thailand/IMG_0116.min.jpeg",
+      "width": 4032,
+      "compressed": true,
+      "placeholder_path": "./photos/thailand/IMG_0116.placeholder.jpeg",
+      "path": "./photos/thailand/IMG_0116.jpeg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/thailand/IMG_0206.min.jpeg",
+      "width": 4032,
+      "compressed": true,
+      "placeholder_path": "./photos/thailand/IMG_0206.placeholder.jpeg",
+      "path": "./photos/thailand/IMG_0206.jpeg"
+    },
+    {
+      "height": 1743,
+      "compressed_path": "./photos/thailand/APC_0008.min.jpg",
+      "width": 2324,
+      "compressed": true,
+      "placeholder_path": "./photos/thailand/APC_0008.placeholder.jpg",
+      "path": "./photos/thailand/APC_0008.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/thailand/APC_0026.min.jpg",
+      "width": 4032,
+      "compressed": true,
+      "placeholder_path": "./photos/thailand/APC_0026.placeholder.jpg",
+      "path": "./photos/thailand/APC_0026.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/thailand/IMG_0124.min.jpeg",
+      "width": 4032,
+      "compressed": true,
+      "placeholder_path": "./photos/thailand/IMG_0124.placeholder.jpeg",
+      "path": "./photos/thailand/IMG_0124.jpeg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/thailand/IMG_0149.min.jpeg",
+      "width": 4032,
+      "compressed": true,
+      "placeholder_path": "./photos/thailand/IMG_0149.placeholder.jpeg",
+      "path": "./photos/thailand/IMG_0149.jpeg"
+    }
+  ],
+  "Mockups": [
+    {
+      "height": 2020,
+      "compressed_path": "./photos/Mockups/Desktop.min.png",
+      "width": 1440,
+      "compressed": true,
+      "placeholder_path": "./photos/Mockups/Desktop.placeholder.png",
+      "path": "./photos/Mockups/Desktop.png"
+    },
+    {
+      "height": 1024,
+      "compressed_path": "./photos/Mockups/curriculum.min.png",
+      "width": 1440,
+      "compressed": true,
+      "placeholder_path": "./photos/Mockups/curriculum.placeholder.png",
+      "path": "./photos/Mockups/curriculum.png"
+    },
+    {
+      "height": 1000,
+      "compressed_path": "./photos/Mockups/Frame.min.png",
+      "width": 1000,
+      "compressed": true,
+      "placeholder_path": "./photos/Mockups/Frame.placeholder.png",
+      "path": "./photos/Mockups/Frame.png"
+    },
+    {
+      "height": 1024,
+      "compressed_path": "./photos/Mockups/glossary.min.png",
+      "width": 1440,
+      "compressed": true,
+      "placeholder_path": "./photos/Mockups/glossary.placeholder.png",
+      "path": "./photos/Mockups/glossary.png"
+    },
+    {
+      "height": 1024,
+      "compressed_path": "./photos/Mockups/photoframe.min.png",
+      "width": 1440,
+      "compressed": true,
+      "placeholder_path": "./photos/Mockups/photoframe.placeholder.png",
+      "path": "./photos/Mockups/photoframe.png"
+    }
+  ]
+}
